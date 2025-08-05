@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462950055574",
+    "project_id": "fault-report-app-fb185",
+    "storage_bucket": "fault-report-app-fb185.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462950055574:android:b086878b5dde6a0428ccb7",
+        "android_client_info": {
+          "package_name": "com.example.fault_report_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwtqz0liCEeo2SaQ0OdksXdEymAlzgmEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
